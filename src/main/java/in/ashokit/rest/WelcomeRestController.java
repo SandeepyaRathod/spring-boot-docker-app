@@ -22,7 +22,7 @@ public class WelcomeRestController {
 		logger.info("***** welcomeMsg() execution end *****");
 		String s = "hello";
 		logger.info("******************************************************************");
-        String str = "Java";
+        String str = "Java Is a PL";
 		logger.info("************** New Changes to test **********************");
 		return msg;
 	}
