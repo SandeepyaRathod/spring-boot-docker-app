@@ -24,6 +24,8 @@ public class WelcomeRestController {
 		logger.info("******************************************************************");
         String str = "Java Is a PL";
         logger.info("***************** Changes Here ********************************");
+		int i = 10;
+		int j = 20;
 		logger.info("************** New Changes to test **********************");
 		return msg;
 	}
