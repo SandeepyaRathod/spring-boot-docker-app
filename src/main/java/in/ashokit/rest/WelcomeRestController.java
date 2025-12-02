@@ -22,6 +22,8 @@ public class WelcomeRestController {
 		logger.info("***** welcomeMsg() execution end *****");
 		String s = "hello";
 		logger.info("******************************************************************");
+        String s1 = "Java";
+        String s2 = "Hello";
 		return msg;
 	}
 	
